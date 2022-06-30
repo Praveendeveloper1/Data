@@ -6,5 +6,21 @@
     {
         "id":2,
         "category":"Electronics"
+    },
+    {
+        "id":3,
+        "category":"Phones"
+    },
+    {
+        "id":4,
+        "category":"Grocery"
+    },
+    {
+        "id":5,
+        "category":"Homes"
+    },
+    {
+        "id":6,
+        "category":"Beauty Toys & Mores"
     }
 ]
